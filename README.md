@@ -1,61 +1,77 @@
+EX NO: Cloud-account-set-up-and-services
+Name : BHARANI KUMAR.S
+Reg no: 212224230035
 Aim:
-To create an AWS cloud account and explore its various services.
-reg no:212224230035
-Procedure:
-Create an AWS Account ○ Go to AWS Official Website. ○ Click on "Create an AWS Account" and enter the required details (email, password, account name). ○ Choose "Personal" or "Business" account type and provide billing information. ○ Complete identity verification using a phone number. ○ Select a support plan (Free Tier recommended for beginners). ○ Log in to the AWS Management Console.
-Exploring AWS Services ○ Navigate through the AWS Management Console to explore services. ○ Access different categories such as Compute, Storage, Database, Networking, and Security. ○ Experiment with services like EC2 (Elastic Compute Cloud), S3 (Simple Storage Service), and RDS (Relational Database Service) using Free Tier options.
-AWS:
-Amazon Web Services (AWS) is a cloud computing platform that provides on-demand computing power, storage, and various services for businesses and developers.
+To create an cloud account in AWS and to explore all of its services.
 
-Services in AWS:
-i. Compute & Networking
-These services provide cloud computing power and networking capabilities to support
-scalable applications.
-● Lightsail – A simple cloud platform for running applications with pre-configured compute,
-storage, and networking.
-● Batch – A managed service for running batch computing workloads at any scale..
-● CloudFront – A global content delivery network (CDN) that securely delivers data with low
-latency.
-ii. Storage & Content Delivery
-These services handle scalable storage, data backup, and content delivery.
-● Amazon FSx – A managed file system service for Windows, Lustre, and NetApp ONTAP
-● Amazon S3 Glacier – A low-cost cloud storage service for data archiving and backup.
-● AWS Cloud Map – A service discovery tool for cloud resources using custom names.
-iii. Database
-AWS provides managed databases for different workloads, from relational to NoSQL and
-data warehousing.
-● Amazon Aurora DSQL – A relational database service compatible with MySQL and
-PostgreSQL.
-● DynamoDB – A managed NoSQL database service for key-value and document storage.
-● Neptune – A managed graph database service optimized for relationships and connections.
-iv. Deployment & Management
-AWS simplifies application deployment and infrastructure management.
-● AWS Elastic Beanstalk – A platform for deploying and scaling web applications easily.
-● AWS Auto Scaling – A service that automatically adjusts capacity to meet demand.
-● AWS Control Tower – A governance tool for managing multi-account AWS environments.
-v. Analytics & AI
-AWS provides powerful analytics tools to process and analyze large datasets.
-● Amazon Redshift – A fully managed data warehouse for big data analytics.
-● AWS Glue – A serverless data integration service for ETL (Extract, Transform, Load).
-● AWS Clean Rooms – A privacy-preserving analytics service for secure data collaboration.
-vi. Mobile & Application Services
-AWS provides tools to build, deploy, and manage mobile applications.
-● AWS Amplify – A framework for building and deploying mobile and web apps.
-● AWS AppSync – A managed service for building GraphQL APIs with real-time data sync.
-● Amazon AppFlow – A service for securely transferring data between SaaS applications and
-AWS.
-Applications of AWS:
-Web Hosting – Hosting scalable websites and applications.
-Big Data Analytics – Processing large datasets for insights.
-AI & Machine Learning – Training and deploying ML models.
-IoT (Internet of Things) – Connecting and managing IoT devices.
-Gaming – Powering multiplayer and cloud gaming applications.
-Backup & Disaster Recovery – Secure storage and failover solutions.
+Procedure
+Step 1: Go to the AWS Website
+• Visit https://aws.amazon.com
+
+• Click “Create an AWS Account” in the top right corner.
+
+Step 2: Enter Account Information
+• Email address – Use a valid email you have access to.
+
+• Password – Create a strong password.
+
+• AWS account name – This is the name you want to associate with your AWS account (e.g., your name or company name).
+
+Step 3: Choose Account Type
+• Personal or Professional – Select based on how you plan to use AWS.
+
+• Fill in your contact information (name, address, phone number).
+
+Step 4: Enter Payment Information
+• Provide credit/debit card details.
+
+Note: You won’t be charged immediately. AWS offers a Free Tier, but entering card details is mandatory.
+
+Step 5: Verify Your Identity
+• Enter your phone number.
+
+• AWS will send a verification code via call or text.
+
+• Enter the code to confirm your identity.
+
+Step 6: Choose a Support Plan
+Choose one of the following: • Basic Support (Free)
+
+• Developer Support
+
+• Business Support
+
+• Enterprise Support
+
+For most beginners, select Basic Support.
+
+Step 7: Complete the Sign-Up
+• After reviewing all the details, click "Sign Up".
+
+• You’ll receive a confirmation email once your account is activated (usually within a few minutes).
+
+Step 8: Sign In to AWS Console
+• Go to https://console.aws.amazon.com
+
+• Log in using your email and password to start using AWS services.
+
+Create a user with administrative access
+After you sign up for an AWS account, secure your AWS account root user, enable AWS IAM Identity Center, and create an administrative user so that you don't use the root user for everyday tasks.
+
+Secure your AWS account root user
+Sign in to the AWS Management Console (https://console.aws.amazon.com) as the account owner by choosing Root user and entering your AWS account email address. On the next page, enter your password. Turn on multi-factor authentication (MFA) for your root user.
+
+Create user with administrative access
+Enable IAM Identity Center. In IAM Identity Center, grant administrative access to a user.
+
+Sign in as the user with administrative access
+To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
+
+Services Overview:
+• Explore all the available services in AWS platform.
+
 Output:
-image
-
-Conclusion:
-AWS provides a wide range of cloud services that enable businesses and developers to build, deploy, and manage applications efficiently. Exploring AWS services gives hands-on experience in cloud computing, storage, networking, and security.
+Screenshot 2025-05-24 090229 Screenshot 2025-05-24 090257
 
 Result:
-Successfully created an AWS account and explored various AWS services.
+Thus an account was created in AWS platform and all the services were explored.
