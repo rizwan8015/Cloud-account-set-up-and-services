@@ -1,6 +1,6 @@
 # EX NO: Cloud-account-set-up-and-services
-## Name : RAVIPRASATH K
-## Reg no: 212224230225
+## Name : BHARANI KUMAR.S
+## Reg no: 212224230035
 
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
