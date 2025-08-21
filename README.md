@@ -71,7 +71,10 @@ Services Overview:
 • Explore all the available services in AWS platform.
 
 Output:
-Screenshot 2025-05-24 090229 Screenshot 2025-05-24 090257
+<img width="1125" height="675" alt="Screenshot 2025-08-21 105757" src="https://github.com/user-attachments/assets/54e7ed09-cfc6-424c-a6fd-1b73d5aeceec" />
+<img width="1124" height="684" alt="Screenshot 2025-08-21 105916" src="https://github.com/user-attachments/assets/13357046-4bb6-43c8-acfa-44fe1d9d3407" />
+
+
 
 Result:
 Thus an account was created in AWS platform and all the services were explored.
